@@ -55,5 +55,10 @@ pip install notebook
 jupyter notebook
 ```
 
+### Single Linked List
+run the file
+```bash
+python Linked-List/linked_list.py
+```
 
 
