@@ -61,4 +61,8 @@ run the file
 python Linked-List/linked_list.py
 ```
 
+run the sample quiz
+```bash
+python python-project/sample_quiz.py
+```
 
