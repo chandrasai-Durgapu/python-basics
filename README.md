@@ -68,6 +68,13 @@ python python-project/sample_quiz.py
 
 run the text based calculator
 ```bash
-python text_based_calculator.py
+python python-project/text_based_calculator.py
 ```
+
+run the bank_atm_project
+```bash
+python python-project/bank_atm_project/main.py
+```
+
+
 
