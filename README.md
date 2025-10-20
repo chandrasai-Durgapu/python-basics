@@ -83,7 +83,21 @@ run the bank_atm_project
 python python-project/bank_atm_project/main.py
 ```
 ---
-Bank atm project with database like sqllite
+💳 Bank ATM Simulator (with SQLite)
+
+This project simulates basic banking operations such as creating an account, logging in with a PIN, checking balance, depositing, and withdrawing money. All data is stored using SQLite, ensuring persistence across sessions.
+
+🛠 Features
+
+Create new bank accounts
+
+Secure login using account number and PIN
+
+Deposit and withdraw funds
+
+Check account balance
+
+SQLite database backend (bank.db)
 
 run the project
 ```bash
