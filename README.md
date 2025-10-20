@@ -50,13 +50,15 @@ pip install notebook
 ```bash
 jupyter notebook
 ```
+### Data structures and Algorithms
+python_data_structures.ipynb
 
 ### Single Linked List
 run the file
 ```bash
 python Linked-List/linked_list.py
 ```
-
+### sample quiz
 run the sample quiz
 ```bash
 python python-project/sample_quiz.py
