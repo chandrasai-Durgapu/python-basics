@@ -8,17 +8,13 @@ Welcome to **Python Basics** – a beginner-friendly collection of Jupyter Noteb
 
 ---
 
-## 📚 Contents
+## Projects Included
 
-This repository currently includes:
+Bank Simulator — A console‑based ATM simulation allowing account creation, login (account + PIN), balance check, deposits & withdrawals.
 
-| Notebook | Topics Covered |
-|----------|----------------|
-| `python-basics.ipynb` | Variables, Data Types, Operators, Conditionals, Loops, Functions |
-| `python-data_structures.ipynb` | Lists, Tuples, Sets, Dictionaries, String Methods |
+Data Structures in Python — Notebooks demonstrating lists, dictionaries, sets, tuples, and more.
 
-More notebooks may be added to cover topics like file handling, OOP, exceptions, and modules.
-
+Python Basics Notebook — Covers syntax, variables, control‑flow, functions, classes, and simple programs.
 ---
 
 ## 🚀 Getting Started
@@ -70,11 +66,22 @@ run the text based calculator
 ```bash
 python python-project/text_based_calculator.py
 ```
+---
+Bank Simulator...a console based project
+---
+✅ Key Features of the Bank Simulator
 
+Account registration and PIN‑based authentication
+
+Balance checking, deposits, withdrawals
+
+Handling invalid account numbers or wrong PINs
+
+Menu interface with loop to allow multiple actions until Exit
 run the bank_atm_project
 ```bash
 python python-project/bank_atm_project/main.py
 ```
-
+---
 
 
