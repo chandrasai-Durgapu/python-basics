@@ -83,5 +83,10 @@ run the bank_atm_project
 python python-project/bank_atm_project/main.py
 ```
 ---
+Bank atm project with database like sqllite
 
+run the project
+```bash
+python python-project/bank-atm-sql-project/main.py
+```
 
