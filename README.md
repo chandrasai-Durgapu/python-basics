@@ -27,7 +27,7 @@ To explore the examples and code explanations, **start by opening the Jupyter no
 
 Check out the complete list of **100 Python Interview Programs** with well-commented code and explanations:
 
-👉 [View on GitHub (Jupyter Notebook)](https://github.com/chandrasai-Durgapu/python-basics/blob/main/100-python-interview-programs.ipynb)
+👉 [View "100 Python Interview Programs")](https://github.com/chandrasai-Durgapu/python-basics/blob/main/100-python-interview-programs.ipynb)
 
 ---
 ## Other Projects Included
