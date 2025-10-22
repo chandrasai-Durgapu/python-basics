@@ -1,8 +1,5 @@
-# python-basics
+# Python-Basics
 
-
-
-#  Python Basics
 
 Welcome to **Python Basics** – a beginner-friendly collection of Jupyter Notebooks that cover foundational Python concepts. Ideal for new learners and those looking to refresh core programming skills in Python.
 ---
@@ -25,14 +22,17 @@ To explore the examples and code explanations, **start by opening the Jupyter no
 📂 **[`python-basics.ipynb`](https://github.com/chandrasai-Durgapu/python-basics/blob/main/python-basics.ipynb)**  
 > 👉 This notebook contains clean, step-by-step Python examples with explanations — perfect for learners, interview prep, and hands-on practice.
 
+
 ---
 ## Other Projects Included
 
 Bank Simulator — A console‑based ATM simulation allowing account creation, login (account + PIN), balance check, deposits & withdrawals.
 
 Data Structures in Python — Notebooks demonstrating lists, dictionaries, sets, tuples, and more.
+A Sample Quiz
+Text Based Calculator
+Bank Simulator with Database — A console‑based ATM simulation allowing account creation, login (account + PIN), balance check, deposits & withdrawals.
 
-Python Basics Notebook — Covers syntax, variables, control‑flow, functions, classes, and simple programs.
 ---
 
 ## 🚀 Getting Started
@@ -103,8 +103,15 @@ run the bank_atm_project
 python python-project/bank_atm_project/main.py
 ```
 ---
-💳 Bank ATM Simulator (with SQLite)
+💳 Bank ATM Simulator with Database(with SQLite)
+Sqlite is prebuilt database with python....no need to install seperately new software
+🛠 Prebuilt: No separate installation or server setup is needed — it comes bundled with Python (sqlite3 module).
 
+🧳 Self-contained: Entire database is stored in a single .db file.
+
+📦 Embedded/Serverless: Doesn’t run as a background service. It’s embedded into the application that uses it.
+
+💡 Zero-config: No config files, users, passwords, or setup commands needed.
 This project simulates basic banking operations such as creating an account, logging in with a PIN, checking balance, depositing, and withdrawing money. All data is stored using SQLite, ensuring persistence across sessions.
 
 🛠 Features
