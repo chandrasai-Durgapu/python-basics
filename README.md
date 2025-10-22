@@ -22,6 +22,12 @@ To explore the examples and code explanations, **start by opening the Jupyter no
 📂 **[`python-basics.ipynb`](https://github.com/chandrasai-Durgapu/python-basics/blob/main/python-basics.ipynb)**  
 > 👉 This notebook contains clean, step-by-step Python examples with explanations — perfect for learners, interview prep, and hands-on practice.
 
+---
+## 🔗 Python Interview Programs
+
+Check out the complete list of **100 Python Interview Programs** with well-commented code and explanations:
+
+👉 [View on GitHub (Jupyter Notebook)](https://github.com/chandrasai-Durgapu/python-basics/blob/main/100-python-interview-programs.ipynb)
 
 ---
 ## Other Projects Included
@@ -29,8 +35,11 @@ To explore the examples and code explanations, **start by opening the Jupyter no
 Bank Simulator — A console‑based ATM simulation allowing account creation, login (account + PIN), balance check, deposits & withdrawals.
 
 Data Structures in Python — Notebooks demonstrating lists, dictionaries, sets, tuples, and more.
+---
 A Sample Quiz
+---
 Text Based Calculator
+---
 Bank Simulator with Database — A console‑based ATM simulation allowing account creation, login (account + PIN), balance check, deposits & withdrawals.
 
 ---
