@@ -5,10 +5,28 @@
 #  Python Basics
 
 Welcome to **Python Basics** – a beginner-friendly collection of Jupyter Notebooks that cover foundational Python concepts. Ideal for new learners and those looking to refresh core programming skills in Python.
+---
+📘 Python Basics – Start Here
+
+Welcome! This repository contains beginner to intermediate Python examples with real-world relevance — great for:
+
+👨‍💻 Interview preparation
+
+🤖 ML & AI learners
+
+🌐 Web development foundations
+
+🧠 General Python practice
+---
+## 📘 Start Here – Open the Notebook First
+
+To explore the examples and code explanations, **start by opening the Jupyter notebook**:
+
+📂 **[`python-basics.ipynb`](https://github.com/chandrasai-Durgapu/python-basics/blob/main/python-basics.ipynb)**  
+> 👉 This notebook contains clean, step-by-step Python examples with explanations — perfect for learners, interview prep, and hands-on practice.
 
 ---
-
-## Projects Included
+## Other Projects Included
 
 Bank Simulator — A console‑based ATM simulation allowing account creation, login (account + PIN), balance check, deposits & withdrawals.
 
